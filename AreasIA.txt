@@ -1,0 +1,32 @@
+machine learning, Redes neurales, algoritmos genéticos, recocido simulado, inversión de Occam....
+redes neuronales, ciencia de datos, machine Learning, conocimiento alrededor del bitcoin
+Machine learning, big data 
+Estadística, (regresión lineal, regresión logística), deep learning, machine learning
+redes neuronales, grafos, ....
+Sistemas Expertos, Redes Neuronales, Procesamiento de lenguage natural
+CNN, redes neuronales, NPL, Vision artificial, reconocimiento de voz, explicabilidad
+redes neuronales, machine learning, deep learning, mineria de datos, vida artificial, redes bayesianas
+Vision artificial, redes neuronales, sistemas expertos, procesamiento de lenguaje
+redes neuronales, deep learning, machine learning
+Aeronáutica, fotónica, convergencia de ecuaciones, diseño de estructuras, medicina, comunicaciones, mecánica, electrónica, semiconductores, drogas, simulacion del cuerpo humano, vacunas, materiales en 2D, texto, accidentes, aeronavegabilidad, 
+Machine learning, data mining, redes neuronales, redes bayesianas.
+Vision artificial, aprendizaje automático, minería de datos, clasificación automática, detección de patrones. En cuanto a herramientas: redes neuronales artificiales, SVM, random forest (solo en teoría)
+redes neuronales, machine learning, logistica difusa
+Redes neuronales, visión artificial, minería de datos,  procesamiento de lenguaje natural, machine learning
+(deep learning, machine learning, mineria de datos) solo he escuchado de esas, sin embargo no se mucho 
+redes neuronales, procesamiento del lenguaje, machine learning, deep learning
+Redes Neuronales, Reconocimiento de objetos, Toma de deciciones
+maching learning,redes neuronales, mineria de datos.
+redes neuronales,  ML
+aprendizaje, supervisado, no supervisado, reforzado, profundo
+Machine Learning, minería de datos, redes neuronales
+Robotica
+deep learning, machine learning, IoT
+redes neuronales, robótica, análisis de imágenes
+natural procesive lenguaje, redes combinacionales, self driving, riego y cuidado de cultivos, optimización de trafico, detección de enfermedades . 
+Machine learning, deep learning
+RedesNeuronalesArtificiales, KNN, SV,CNN
+Aprendizaje de transferencia (transfer learning), 
+Minería de datos, Robótica.
+Machine Learning, Redes Neuronales, Sistemas Expertos
+neurociencia, biología evolutiva, ciencias de la computación, robótica.
